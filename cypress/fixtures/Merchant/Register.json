@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Arik Jun",
+        "buisnessName":"Arik Ent",
+        "country" : "Nigeria",
+        "phoneNumber":"07068181972",
+        "businessEmail":"arik@yopmail.com",
+        "password":"Password1"
+    },
+    {
+        "name" : "Arik Jun",
+        "buisnessName":"Arik Ent",
+        "country" : "Nigeria",
+        "phoneNumber":"07068181x72",
+        "businessEmail":"arik@yopmail.com",
+        "password":"Password1"
+    }
+
+]
